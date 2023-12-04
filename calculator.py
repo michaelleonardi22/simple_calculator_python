@@ -1,3 +1,5 @@
+#ini program untuk kalkulator 
+#ini program untuk kalkulator
 def perkalian(angka1, angka2):
   return angka1 * angka2
 
